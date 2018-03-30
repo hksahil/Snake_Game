@@ -1,6 +1,5 @@
 # Snake Game!
-# by root
-# small fixes by Phil
+
 
 # our game imports
 import pygame, sys, random, time
